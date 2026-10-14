@@ -1,2 +1,2 @@
-# ntu-tl-hssir.github.io
-Human Sensing Systems Intelligence Research Group
+# ntu-tl-hssir
+Nanyang Technological University. Temasek Laboratories, Human Sensing Systems Intelligence Research Group
